@@ -1,6 +1,7 @@
 /* global define, it, describe */
 import React from 'react';
 import { expect } from 'chai';
+// import { shallow } from 'react-test-renderer';
 import { shallow } from 'enzyme';
 import App from './../src/js/app';
 
